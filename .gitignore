@@ -1,0 +1,16 @@
+# The paper is copyrighted and freely available on arXiv (1706.03762);
+# not redistributed here.
+paper.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
